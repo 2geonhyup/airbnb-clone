@@ -1,0 +1,10 @@
+# mypy
+.mypy_cache/
+.dmpy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Mac
+.DS_Store
